@@ -1,0 +1,16 @@
+<template>
+    <div class={messageStyle}>
+            <template if:true={hasimg}>
+                    <img src={mcontent} />        
+                </template>
+                <template if:true={hasflow}>
+                        <iframe class="flowframe"  style="border:none;" src={flowname} ></iframe>
+                    </template>
+            
+          
+        <lightning-formatted-rich-text
+            value={msgtxt}>
+           
+        </lightning-formatted-rich-text>
+    </div>
+</template>
