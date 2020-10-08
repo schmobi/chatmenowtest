@@ -14,17 +14,17 @@
 .agent.chat-content {
     color: rgb(5, 5, 5);
     background: #0006fd;
-    border-radius: 0px 0px 0px 0;
+    /*border-radius: 0px 0px 0px 0;*/
     float: left;
-    border-width:1px;
+    /*border-width:1px;*/
     border-style:solid;
 }
 
 .chasitor.chat-content {
     background: #fd0034;
     color: rgba(99, 0, 20, 0.842);
-    border-radius: 0px 0px 0px 0;
+    /*border-radius: 0px 0px 0px 0;*/
     margin-left: auto;
-    border-width:1px;
+    /*border-width:1px;*/
     border-style:solid;
 }
