@@ -12,7 +12,7 @@
 }
 
 .agent.chat-content {
-    color: rgb(5, 5, 5);
+    color: rgb(232, 233, 235);
     background: #e8e9eb;
     border-radius: 10px 10px 10px 0;
     float: left;
@@ -23,7 +23,7 @@
 .chasitor.chat-content {
     background: #158afe;
     color: 	rgb(21, 138, 254);
-    border-radius: 10px 10px 10px 0;
+    border-radius: 10px 10px 0 10px;
     margin-left: auto;
     border-width:1px;
     border-style:solid;
