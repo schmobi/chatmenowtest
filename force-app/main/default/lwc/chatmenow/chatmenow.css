@@ -5,7 +5,7 @@
     max-width: 95%;
     padding: 5px;
     font-size: 0.875em;
-    border-radius: 10px 10px 0;
+    /*border-radius: 10px 10px 0;*/
     float: right;
     margin-left: 40px;
     white-space: pre-wrap;
@@ -13,18 +13,18 @@
 
 .agent.chat-content {
     color: rgb(5, 5, 5);
-    background: #0006fd;
-    /*border-radius: 0px 0px 0px 0;*/
+    background: #e8e9eb;
+    border-radius: 10px 10px 10px 0;
     float: left;
-    /*border-width:1px;*/
+    border-width:1px;
     border-style:solid;
 }
 
 .chasitor.chat-content {
-    background: #fd0034;
-    color: rgba(99, 0, 20, 0.842);
-    /*border-radius: 0px 0px 0px 0;*/
+    background: #158afe;
+    color: 	rgb(21, 138, 254)
+    border-radius: 10px 10px 10px 0;
     margin-left: auto;
-    /*border-width:1px;*/
+    border-width:1px;
     border-style:solid;
 }
